@@ -1,10 +1,35 @@
 .App {
   text-align: center;
+  justify-content: center;
+  background-color: #282c34;
+}
+.heading{
+  text-align: center;
+  justify-content: center;
+  
+
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+.App-h1{
+  align-items: center;
+  justify-content: center;
+ 
+}
+.app1{
+  
+
+  
+}
+#search-bar{
+  height: 30px;
+  width: 500px;
+  align-items: center;
+  justify-content: center;
+  border-color: red;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -35,4 +60,31 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.border{
+  align-items: center;
+  justify-content: center;
+  
+  margin: 50px;
+
+
+
+}
+.hhh{
+  
+  margin-left: 50%;
+}
+.hh2{
+  margin-left: 20%;
+}
+.hh3{
+  margin-left: 200px;
+  margin-right: 200px;
+  
+}
+.bor{
+  margin-left: 20%;
+  height: 20px;
+  
 }
